@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "613723674705",
+    "project_id": "food-delivry-faccd",
+    "storage_bucket": "food-delivry-faccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613723674705:android:bacb47645f7ca3db36c070",
+        "android_client_info": {
+          "package_name": "com.example.emart_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613723674705-hb5igopvv93a68r85l6f6be29aih49j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKPgaa3SvsdDBK9fx2NTklQR2fEslTgPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613723674705-hb5igopvv93a68r85l6f6be29aih49j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613723674705:android:95284bdb3b46ee4a36c070",
+        "android_client_info": {
+          "package_name": "com.tuks.almasar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613723674705-hb5igopvv93a68r85l6f6be29aih49j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKPgaa3SvsdDBK9fx2NTklQR2fEslTgPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613723674705-hb5igopvv93a68r85l6f6be29aih49j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
