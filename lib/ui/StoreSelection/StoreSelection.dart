@@ -8,8 +8,8 @@ import 'package:emart_customer/ui/QrCodeScanner/QrCodeScanner.dart';
 import 'package:emart_customer/ui/container/ContainerScreen.dart';
 import 'package:firebase_auth/firebase_auth.dart' as auth;
 import 'package:flutter/material.dart';
+import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 import '../../constants.dart';
 import '../../model/User.dart';

@@ -84,6 +84,8 @@ dependencies:
   flutterflow_paginate_firestore: ^1.0.3+1
   change_app_package_name: ^1.1.0
 
+  flutter_screenutil: 
+
 dependency_overrides:
   webview_flutter: ^4.2.1
 
